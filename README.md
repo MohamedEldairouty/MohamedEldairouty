@@ -31,6 +31,9 @@
 
 ## 🚀 Projects
 
+### 📱 [Dairouty Mobiles – Retail Management System (C#/Java)](https://github.com/MohamedEldairouty/Dairouty-Mobiles)
+> Full desktop management system for a real mobile store business, built in C# (WinForms) and Java (JavaFX) with SQL Server backend. Handles sales, inventory, invoices, user accounts, and OTP-based password recovery.
+
 ### 📚 [MathMind – C# Networked Quiz App](https://github.com/MohamedEldairouty/MathMind)
 > C# quiz system with login functionality, socket-based examiner-student communication, and automated grade assignment.
 
