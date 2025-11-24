@@ -49,6 +49,9 @@
 ### 🌬 [AirGuard-IoT – Smart Air Quality Monitor](https://github.com/MohamedEldairouty/AirGuard-IoT)
 > ESP32-based air monitor that uses MQTT to publish sensor data and auto-controls fan/buzzer based on air quality levels. Includes a live dashboard.
 
+### 🏓 [Paddle Rivals – OpenGL Competitive Pong Game](https://github.com/MohamedEldairouty/Paddle-Rivals)
+> A fast-paced 2D/3D OpenGL game with AI modes, themes, avatars, VFX, fullscreen support, and a fully animated menu system.
+
 ---
 
 ## 🏆 Achievements
