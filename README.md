@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi, I'm Mohamed Abdallah Eldairouty 👋</h1>
-<h3 align="center">Computer Engineering Student | .NET Backend Developer</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineering+Enthusiast+%F0%9F%94%A7" alt="Typing SVG" />
@@ -51,6 +50,9 @@
 
 ### 🏓 [Paddle Rivals – OpenGL Competitive Pong Game](https://github.com/MohamedEldairouty/Paddle-Rivals)
 > A fast-paced 2D/3D OpenGL game with AI modes, themes, avatars, VFX, fullscreen support, and a fully animated menu system.
+
+### 🚀 [SkyTracer – Atmospheric Telemetry & AI Forecasting System](https://github.com/MohamedEldairouty/SkyTracer)
+> Full-stack IoT + AI system built for Data Acquisition course. ESP32 payload with LoRa telemetry, real-time React dashboard, GPS tracking, data logging, and AI-based IAQ forecasting & hazard prediction.
 
 ---
 
