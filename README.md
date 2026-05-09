@@ -54,6 +54,9 @@
 ### 🚀 [SkyTracer – Atmospheric Telemetry & AI Forecasting System](https://github.com/MohamedEldairouty/SkyTracer)
 > Full-stack IoT + AI system built for Data Acquisition course. ESP32 payload with LoRa telemetry, real-time React dashboard, GPS tracking, data logging, and AI-based IAQ forecasting & hazard prediction.
 
+### ♟ [RoboGambit – AI Chess Robot with Vision & Robotic Arm](https://github.com/MohamedEldairouty/RoboGambit)
+> Full-stack chess-playing robot built for Intelligent Robotics course. PySide6 GUI with Stockfish AI, OpenCV-based move detection, ROS 2 multi-node architecture, 5-DOF robotic arm with inverse kinematics, and Arduino firmware. Camera detects player moves on a real board; arm physically responds.
+
 ---
 
 ## 🏆 Achievements
