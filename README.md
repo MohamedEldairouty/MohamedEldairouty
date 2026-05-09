@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineering+Enthusiast+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineering+Enthusiast+%F0%9F%94%A7;Robotics+%26+IoT+Systems+Builder+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 - 🎓 Computer Engineering Student @ AAST (Arab Academy)
 - 👨‍💻 Specialized in **Backend Development** using **.NET**, **C#**, and **SQL Server**
+- 🤖 Active in **robotics, IoT, and full-stack systems** — combining embedded hardware, ML, and clean software architecture
 - 🧰 Strong command of APIs, databases, and object-oriented design
 - 💼 Completed an ASP.NET diploma at Route and led multiple full-stack projects
-- 🛠️ Also worked on embedded and ML-based systems (see projects below)
 - 📍 Smouha, Alexandria, Egypt
 
 ---
@@ -21,10 +21,13 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** C#, C++, Python, Java
-- **Backend:** .NET 8, ASP.NET MVC, REST APIs
-- **Databases:** SQL Server, MySQL
-- **Tools:** Git, Github, Postman, Docker, Visual Studio, SSMS, Microsoft Office
-- **Other:** Windows Forms, Object-Oriented Programming, Socket Programming, Data Structures
+- **Backend:** .NET 8, ASP.NET MVC, REST APIs, Node.js, Express, WebSocket / Socket.IO
+- **Databases:** SQL Server, MySQL, MongoDB
+- **Robotics & Embedded:** ROS 2, Arduino, ESP32, MQTT, LoRa, Serial / UART
+- **Computer Vision & ML:** OpenCV, NumPy, CatBoost, Stockfish, Pandas
+- **GUI / Frontend:** PySide6 (Qt), Windows Forms, JavaFX, React (basics)
+- **Tools:** Git, GitHub, Postman, Docker, Visual Studio, SSMS, Microsoft Office
+- **Other:** Object-Oriented Programming, Socket Programming, Data Structures, OpenGL
 
 ---
 
@@ -61,7 +64,8 @@
 
 ## 🏆 Achievements
 
-- 💻 Built 5+ systems using .NET 
+- 💻 Built 5+ systems using .NET
+- 🤖 Built end-to-end robotics + computer vision systems integrating ROS 2, OpenCV, and embedded firmware
 - 🏅 Participated in RoboCup, ACPC, and EOI competitions
 - ✅ Completed ASP.NET Backend Diploma @ Route
 - ✅ Completed Artificial Intelligence Course @ We Telecom
