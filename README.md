@@ -60,6 +60,9 @@
 ### ♟ [RoboGambit – AI Chess Robot with Vision & Robotic Arm](https://github.com/MohamedEldairouty/RoboGambit)
 > Full-stack chess-playing robot built for Intelligent Robotics course. PySide6 GUI with Stockfish AI, OpenCV-based move detection, ROS 2 multi-node architecture, 5-DOF robotic arm with inverse kinematics, and Arduino firmware. Camera detects player moves on a real board; arm physically responds.
 
+### 🛡️ [CampusPulse-Shield – Chained Vulnerability Security Lab](https://github.com/MohamedEldairouty/CampusPulse-Shield)
+> Flask-based university student portal engineered as a deliberate security lab for a Cyber Security course. Ships as two parallel deployments — a vulnerable build (SQLi + Reflected XSS + CSRF) and a hardened build with textbook fixes. Live demo shows a regular student account escalating to admin — and a grade silently changed to A+ — without ever touching the admin's password.
+
 ---
 
 ## 🏆 Achievements
